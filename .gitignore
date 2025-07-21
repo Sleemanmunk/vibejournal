@@ -1,0 +1,43 @@
+# Android/IntelliJ
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_*
+*.dex
+*.class
+*.log
+*.hprof
+*.lock
+*.tmp
+*.orig
+*.rej
+*.sublime-workspace
+*.sublime-project
+
+# Keystore files
+*.jks
+*.keystore
+
+# MacOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+
+# Ignore generated files
+*.generated.java
+
+# Ignore OpenAI API key
+local.properties
+
+# Ignore other secrets
+*.env
+.env.*

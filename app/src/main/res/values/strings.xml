@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VibeJournal</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="record">Record</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="select_journal">Select Journal</string>
+    <string name="no_journal_selected">No journal selected</string>
+    <string name="tap_to_record">Tap to record</string>
+    <string name="recording">Recording...</string>
+    <string name="processing">Processing...</string>
+    <string name="transcribing">Transcribing audio...</string>
+    <string name="generating_entry">Generating journal entry...</string>
+    <string name="saving">Saving to journal...</string>
+    <string name="saved_successfully">Saved successfully!</string>
+    <string name="create_new_journal">Create New Journal</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_journals_found">No journals found</string>
+    <string name="create_journal_to_start">Create a new journal to get started</string>
+    <string name="permissions_required">Permissions required for recording</string>
+    <string name="permission_explanation">This app needs microphone and storage permissions to record audio.</string>
+</resources>
