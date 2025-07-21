@@ -21,6 +21,7 @@
 *.rej
 *.sublime-workspace
 *.sublime-project
+google-services.json
 
 # Keystore files
 *.jks
